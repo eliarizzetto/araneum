@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Araneum 🕸️",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Julius Sans One",
+        body: "Libre Bodoni",
         code: "IBM Plex Mono",
       },
       colors: {
