@@ -1,5 +1,5 @@
 ---
-title: "Elia's Garden - Home"
+title: "Home"
 enableToc: false
 date: 2023-03-20 18:34
 place: Pordenone
