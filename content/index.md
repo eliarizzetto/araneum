@@ -16,4 +16,4 @@ To explore the categories, see all the **[[tags]]**.
 
 To start roaming around the garden, you can use the **global interactive graph** below.
 
-Bear in mind that much of the content on this website will be in Italian. :)
+Bear in mind that much of the content on this website will be in Italian. 🙂
